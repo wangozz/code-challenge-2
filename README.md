@@ -7,8 +7,8 @@ PET GALLERY is a website that showcases cute animals and allows users to like th
 
 To see a live preview of the website, follow the steps below:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone 
+2. Navigate to the project directory: `cd 
 3. Open the index.html file in a web browser.
 
 ## Features
@@ -29,8 +29,8 @@ To see a live preview of the website, follow the steps below:
 
 To run the website locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone 
+2. Navigate to the project directory: `cd 
 3. Open the index.html file in a web browser.
 
 ## How It Works
